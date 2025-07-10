@@ -47,7 +47,7 @@ h1 {
 }
 
 button,
-a #tweetBtn {
+a#tweetBtn {
   padding: 10px 20px;
   margin: 5px;
   border: none;
